@@ -1,0 +1,30 @@
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: Array before sort: [3, 1, 5, 0, 2, 4]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: i#0: [3, 1, 5, 0, 2, 4]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#1: [1, 3, 5, 0, 2, 4]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#3: [1, 3, 0, 5, 2, 4]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#4: [1, 3, 0, 2, 5, 4]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#5: [1, 3, 0, 2, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: i#1: [1, 3, 0, 2, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#2: [1, 0, 3, 2, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#3: [1, 0, 2, 3, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: i#2: [1, 0, 2, 3, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO:  j#1: [0, 1, 2, 3, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: i#3: [0, 1, 2, 3, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: i#4: [0, 1, 2, 3, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: i#5: [0, 1, 2, 3, 4, 5]
+июн 22, 2023 9:36:35 PM Task2 bubbleSortWithLogging
+INFO: Array after sort: [0, 1, 2, 3, 4, 5]
